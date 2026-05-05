@@ -1,0 +1,15 @@
+﻿.wt-team-1 .team-social-center, .header-style-2 #search-toggle-block, .testimonial-2 .testimonial-text, .video-section-blockquote, .service-box-title, .video3-section-blockquote, .colarge-2, .colarge-1::before, .colarge-1::after, .project-2-block .wt-title, .project-stamp .project-stamp-list, .project-1-inner-pic::after, .line-filter .filter-content, .video-section-blockquote2, .rev-title-left-border, .header-style-3 #search-toggle-block, .box-style1-title, .colarge-1-new::before, .slider-block-3, .about-two .about-year .about-year-info span, .icon-circle-box .icon-circle::before, .icon-circle-box .icon-circle::after, .client-logo2-media::before, .client-logo2-media::after {
+    border-color: #ff5e15;
+}
+
+.project-1-inner-pic:after {
+    position: absolute;
+    content: '';
+    border: 6px solid #ff5e15;
+    right: -30px;
+    bottom: -30px;
+    left: 30px;
+    top: 30px;
+    width: 100%;
+    z-index: -1;
+}

@@ -1,0 +1,109 @@
+[07-Oct-2025 07:17:19 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 89
+[07-Oct-2025 07:17:19 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 92
+[07-Oct-2025 07:17:19 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 93
+[07-Oct-2025 07:17:19 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 102
+[07-Oct-2025 07:17:19 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 111
+[09-Oct-2025 15:10:33 UTC] PHP Warning:  Undefined array key "name" in /home/technofr/torshaapharma.com/send2.php on line 8
+[09-Oct-2025 15:10:33 UTC] PHP Warning:  Undefined array key "email" in /home/technofr/torshaapharma.com/send2.php on line 9
+[09-Oct-2025 15:10:33 UTC] PHP Warning:  Undefined array key "contact" in /home/technofr/torshaapharma.com/send2.php on line 10
+[09-Oct-2025 15:10:33 UTC] PHP Warning:  Undefined array key "company" in /home/technofr/torshaapharma.com/send2.php on line 11
+[09-Oct-2025 15:10:33 UTC] PHP Warning:  Undefined array key "message" in /home/technofr/torshaapharma.com/send2.php on line 12
+[09-Oct-2025 15:10:33 UTC] PHP Warning:  Undefined array key "hidden_field" in /home/technofr/torshaapharma.com/send2.php on line 13
+[09-Oct-2025 20:40:33 Asia/Kolkata] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/technofr/torshaapharma.com/send2.php on line 45
+[09-Oct-2025 15:24:19 UTC] PHP Warning:  Undefined array key "name" in /home/technofr/torshaapharma.com/send2.php on line 8
+[09-Oct-2025 15:24:19 UTC] PHP Warning:  Undefined array key "email" in /home/technofr/torshaapharma.com/send2.php on line 9
+[09-Oct-2025 15:24:19 UTC] PHP Warning:  Undefined array key "contact" in /home/technofr/torshaapharma.com/send2.php on line 10
+[09-Oct-2025 15:24:19 UTC] PHP Warning:  Undefined array key "company" in /home/technofr/torshaapharma.com/send2.php on line 11
+[09-Oct-2025 15:24:19 UTC] PHP Warning:  Undefined array key "message" in /home/technofr/torshaapharma.com/send2.php on line 12
+[09-Oct-2025 15:24:19 UTC] PHP Warning:  Undefined array key "hidden_field" in /home/technofr/torshaapharma.com/send2.php on line 13
+[09-Oct-2025 20:54:19 Asia/Kolkata] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/technofr/torshaapharma.com/send2.php on line 45
+[19-Oct-2025 13:08:00 UTC] PHP Warning:  Undefined array key "name" in /home/technofr/torshaapharma.com/send2.php on line 8
+[19-Oct-2025 13:08:00 UTC] PHP Warning:  Undefined array key "email" in /home/technofr/torshaapharma.com/send2.php on line 9
+[19-Oct-2025 13:08:00 UTC] PHP Warning:  Undefined array key "contact" in /home/technofr/torshaapharma.com/send2.php on line 10
+[19-Oct-2025 13:08:00 UTC] PHP Warning:  Undefined array key "company" in /home/technofr/torshaapharma.com/send2.php on line 11
+[19-Oct-2025 13:08:00 UTC] PHP Warning:  Undefined array key "message" in /home/technofr/torshaapharma.com/send2.php on line 12
+[19-Oct-2025 13:08:00 UTC] PHP Warning:  Undefined array key "hidden_field" in /home/technofr/torshaapharma.com/send2.php on line 13
+[19-Oct-2025 18:38:00 Asia/Kolkata] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/technofr/torshaapharma.com/send2.php on line 45
+[29-Oct-2025 00:11:37 UTC] PHP Warning:  Undefined array key "hidden_field" in /home/technofr/torshaapharma.com/send2.php on line 13
+[11-Nov-2025 10:02:26 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 89
+[11-Nov-2025 10:02:26 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 92
+[11-Nov-2025 10:02:26 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 93
+[11-Nov-2025 10:02:26 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 102
+[11-Nov-2025 10:02:26 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 111
+[01-Dec-2025 07:21:17 UTC] PHP Warning:  Undefined array key "name" in /home/technofr/torshaapharma.com/send2.php on line 8
+[01-Dec-2025 07:21:17 UTC] PHP Warning:  Undefined array key "email" in /home/technofr/torshaapharma.com/send2.php on line 9
+[01-Dec-2025 07:21:17 UTC] PHP Warning:  Undefined array key "contact" in /home/technofr/torshaapharma.com/send2.php on line 10
+[01-Dec-2025 07:21:17 UTC] PHP Warning:  Undefined array key "company" in /home/technofr/torshaapharma.com/send2.php on line 11
+[01-Dec-2025 07:21:17 UTC] PHP Warning:  Undefined array key "message" in /home/technofr/torshaapharma.com/send2.php on line 12
+[01-Dec-2025 07:21:17 UTC] PHP Warning:  Undefined array key "hidden_field" in /home/technofr/torshaapharma.com/send2.php on line 13
+[01-Dec-2025 12:51:17 Asia/Kolkata] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/technofr/torshaapharma.com/send2.php on line 45
+[02-Dec-2025 02:49:58 UTC] PHP Warning:  Undefined array key "name" in /home/technofr/torshaapharma.com/send2.php on line 8
+[02-Dec-2025 02:49:58 UTC] PHP Warning:  Undefined array key "email" in /home/technofr/torshaapharma.com/send2.php on line 9
+[02-Dec-2025 02:49:58 UTC] PHP Warning:  Undefined array key "contact" in /home/technofr/torshaapharma.com/send2.php on line 10
+[02-Dec-2025 02:49:58 UTC] PHP Warning:  Undefined array key "company" in /home/technofr/torshaapharma.com/send2.php on line 11
+[02-Dec-2025 02:49:58 UTC] PHP Warning:  Undefined array key "message" in /home/technofr/torshaapharma.com/send2.php on line 12
+[02-Dec-2025 02:49:58 UTC] PHP Warning:  Undefined array key "hidden_field" in /home/technofr/torshaapharma.com/send2.php on line 13
+[02-Dec-2025 08:19:58 Asia/Kolkata] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/technofr/torshaapharma.com/send2.php on line 45
+[07-Dec-2025 10:53:53 UTC] PHP Warning:  Undefined array key "name" in /home/technofr/torshaapharma.com/send2.php on line 8
+[07-Dec-2025 10:53:53 UTC] PHP Warning:  Undefined array key "email" in /home/technofr/torshaapharma.com/send2.php on line 9
+[07-Dec-2025 10:53:53 UTC] PHP Warning:  Undefined array key "contact" in /home/technofr/torshaapharma.com/send2.php on line 10
+[07-Dec-2025 10:53:53 UTC] PHP Warning:  Undefined array key "company" in /home/technofr/torshaapharma.com/send2.php on line 11
+[07-Dec-2025 10:53:53 UTC] PHP Warning:  Undefined array key "message" in /home/technofr/torshaapharma.com/send2.php on line 12
+[07-Dec-2025 10:53:53 UTC] PHP Warning:  Undefined array key "hidden_field" in /home/technofr/torshaapharma.com/send2.php on line 13
+[07-Dec-2025 16:23:53 Asia/Kolkata] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/technofr/torshaapharma.com/send2.php on line 45
+[10-Dec-2025 17:29:54 UTC] PHP Warning:  Undefined array key "name" in /home/technofr/torshaapharma.com/send2.php on line 8
+[10-Dec-2025 17:29:54 UTC] PHP Warning:  Undefined array key "email" in /home/technofr/torshaapharma.com/send2.php on line 9
+[10-Dec-2025 17:29:54 UTC] PHP Warning:  Undefined array key "contact" in /home/technofr/torshaapharma.com/send2.php on line 10
+[10-Dec-2025 17:29:54 UTC] PHP Warning:  Undefined array key "company" in /home/technofr/torshaapharma.com/send2.php on line 11
+[10-Dec-2025 17:29:54 UTC] PHP Warning:  Undefined array key "message" in /home/technofr/torshaapharma.com/send2.php on line 12
+[10-Dec-2025 17:29:54 UTC] PHP Warning:  Undefined array key "hidden_field" in /home/technofr/torshaapharma.com/send2.php on line 13
+[10-Dec-2025 22:59:54 Asia/Kolkata] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/technofr/torshaapharma.com/send2.php on line 45
+[16-Dec-2025 22:09:31 UTC] PHP Warning:  Undefined array key "hidden_field" in /home/technofr/torshaapharma.com/send2.php on line 13
+[19-Dec-2025 02:26:49 UTC] PHP Warning:  Undefined array key "name" in /home/technofr/torshaapharma.com/send2.php on line 8
+[19-Dec-2025 02:26:49 UTC] PHP Warning:  Undefined array key "email" in /home/technofr/torshaapharma.com/send2.php on line 9
+[19-Dec-2025 02:26:49 UTC] PHP Warning:  Undefined array key "contact" in /home/technofr/torshaapharma.com/send2.php on line 10
+[19-Dec-2025 02:26:49 UTC] PHP Warning:  Undefined array key "company" in /home/technofr/torshaapharma.com/send2.php on line 11
+[19-Dec-2025 02:26:49 UTC] PHP Warning:  Undefined array key "message" in /home/technofr/torshaapharma.com/send2.php on line 12
+[19-Dec-2025 02:26:49 UTC] PHP Warning:  Undefined array key "hidden_field" in /home/technofr/torshaapharma.com/send2.php on line 13
+[19-Dec-2025 07:56:49 Asia/Kolkata] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/technofr/torshaapharma.com/send2.php on line 45
+[19-Dec-2025 17:44:27 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 89
+[19-Dec-2025 17:44:27 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 92
+[19-Dec-2025 17:44:27 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 93
+[19-Dec-2025 17:44:27 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 102
+[19-Dec-2025 17:44:27 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 111
+[19-Dec-2025 17:46:29 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 89
+[19-Dec-2025 17:46:29 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 92
+[19-Dec-2025 17:46:29 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 93
+[19-Dec-2025 17:46:29 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 102
+[19-Dec-2025 17:46:29 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 111
+[27-Dec-2025 06:44:43 UTC] PHP Warning:  Undefined array key "name" in /home/technofr/torshaapharma.com/send2.php on line 8
+[27-Dec-2025 06:44:43 UTC] PHP Warning:  Undefined array key "email" in /home/technofr/torshaapharma.com/send2.php on line 9
+[27-Dec-2025 06:44:43 UTC] PHP Warning:  Undefined array key "contact" in /home/technofr/torshaapharma.com/send2.php on line 10
+[27-Dec-2025 06:44:43 UTC] PHP Warning:  Undefined array key "company" in /home/technofr/torshaapharma.com/send2.php on line 11
+[27-Dec-2025 06:44:43 UTC] PHP Warning:  Undefined array key "message" in /home/technofr/torshaapharma.com/send2.php on line 12
+[27-Dec-2025 06:44:43 UTC] PHP Warning:  Undefined array key "hidden_field" in /home/technofr/torshaapharma.com/send2.php on line 13
+[27-Dec-2025 12:14:43 Asia/Kolkata] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/technofr/torshaapharma.com/send2.php on line 45
+[01-Jan-2026 06:50:59 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 89
+[01-Jan-2026 06:50:59 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 92
+[01-Jan-2026 06:50:59 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 93
+[01-Jan-2026 06:50:59 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 104
+[01-Jan-2026 06:50:59 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 113
+[01-Jan-2026 06:53:14 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 89
+[01-Jan-2026 06:53:14 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 92
+[01-Jan-2026 06:53:14 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 93
+[01-Jan-2026 06:53:14 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 104
+[01-Jan-2026 06:53:14 UTC] PHP Warning:  Undefined variable $currentPage in /home/technofr/torshaapharma.com/layouts/header-2.php on line 113
+[04-Jan-2026 14:22:03 UTC] PHP Warning:  Undefined array key "name" in /home/technofr/torshaapharma.com/send2.php on line 8
+[04-Jan-2026 14:22:03 UTC] PHP Warning:  Undefined array key "email" in /home/technofr/torshaapharma.com/send2.php on line 9
+[04-Jan-2026 14:22:03 UTC] PHP Warning:  Undefined array key "contact" in /home/technofr/torshaapharma.com/send2.php on line 10
+[04-Jan-2026 14:22:03 UTC] PHP Warning:  Undefined array key "company" in /home/technofr/torshaapharma.com/send2.php on line 11
+[04-Jan-2026 14:22:03 UTC] PHP Warning:  Undefined array key "message" in /home/technofr/torshaapharma.com/send2.php on line 12
+[04-Jan-2026 14:22:03 UTC] PHP Warning:  Undefined array key "hidden_field" in /home/technofr/torshaapharma.com/send2.php on line 13
+[04-Jan-2026 19:52:03 Asia/Kolkata] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/technofr/torshaapharma.com/send2.php on line 45
+[12-Jan-2026 20:41:25 UTC] PHP Warning:  Undefined array key "name" in /home/technofr/torshaapharma.com/send2.php on line 8
+[12-Jan-2026 20:41:25 UTC] PHP Warning:  Undefined array key "email" in /home/technofr/torshaapharma.com/send2.php on line 9
+[12-Jan-2026 20:41:25 UTC] PHP Warning:  Undefined array key "contact" in /home/technofr/torshaapharma.com/send2.php on line 10
+[12-Jan-2026 20:41:25 UTC] PHP Warning:  Undefined array key "company" in /home/technofr/torshaapharma.com/send2.php on line 11
+[12-Jan-2026 20:41:25 UTC] PHP Warning:  Undefined array key "message" in /home/technofr/torshaapharma.com/send2.php on line 12
+[12-Jan-2026 20:41:25 UTC] PHP Warning:  Undefined array key "hidden_field" in /home/technofr/torshaapharma.com/send2.php on line 13
+[13-Jan-2026 02:11:25 Asia/Kolkata] PHP Warning:  Undefined array key "g-recaptcha-response" in /home/technofr/torshaapharma.com/send2.php on line 45
